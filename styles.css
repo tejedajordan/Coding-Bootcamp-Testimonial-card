@@ -1,19 +1,6 @@
 @charset "UTF-8";
 /* CSS styles for bootcamp project */
 
-@media (max-width: 375px){
-	
-	.attribution { font-size: 11px; text-align: center;}
-	  
-    .attribution a { color: hsl(228, 45%, 44%);}
-	  
-	p {font-family: 'Inter', sans-serif;}
-	
-}
-
-@media screen and (max-width: 1440px){
-    
-	p {font-family: 'Inter', sans-serif;}
-	
-	
+@media (min-width: 451px) and (max-width: 1440px){
+	p {font-size: 32px;}
 }

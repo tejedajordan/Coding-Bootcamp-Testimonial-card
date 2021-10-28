@@ -3,15 +3,15 @@
 
 @media (max-width: 375px){
 	
-	.attribution { font-size: 11px; text-align: center; }
+	.attribution { font-size: 11px; text-align: center;}
 	  
-    .attribution a { color: hsl(228, 45%, 44%); }
+    .attribution a { color: hsl(228, 45%, 44%);}
 	  
 	p {font-family: 'Inter', sans-serif;}
 	
 }
 
-@media (max-width: 1440px){
+@media screen and (max-width: 1440px){
     
 	p {font-family: 'Inter', sans-serif;}
 	
